@@ -26,6 +26,7 @@ npm install @vue/cli-service --save-dev
 ```
 ### Check the package.json file
 "scripts": {
+
   "serve": "vue-cli-service serve"
 }
 ## Project setup Another type
